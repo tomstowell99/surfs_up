@@ -20,7 +20,7 @@
 
   * The average temperature for December has been 71.0 degrees Fahrenheit
   * The standard deviation is 3.7. We have a little more day to day variation in December than in June 
-  * Thelowest Temperature within our data was 56 degrees. this is 8 degrees cooler than the lowest recorded for June.  
+  * The lowest Temperature within our data was 56 degrees. this is 8 degrees cooler than the lowest recorded for June.  
   
   The chart below shows most of our temperatures are falling between 69 and 74 degrees in December. With a nice tight standard deviation of 3.7.We can plan on consistent   temperatures throughout the month.
 
