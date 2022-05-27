@@ -8,7 +8,7 @@
   * The standard deviation from our average of 74.9 has only been 3.2 degrees.
   * The lowest record temperature within our data was only 64 degrees.
   
-  The chart below shows most of our temperatures are falling 73 and 77 degrees in June with a standard deviation of 3.2 degrees. Our high was 85 with a low of 
+  The chart below shows most of our temperatures are falling between 73 and 77 degrees in June with a standard deviation of 3.2 degrees. Our high was 85 with a low of 
   only 64.
   
    
